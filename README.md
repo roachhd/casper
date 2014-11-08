@@ -3,7 +3,7 @@ Casper (for Octopress)
 
 An Octopress port of Ghost's Casper theme, with GitHub-style syntax highlighting (or alternate [Twilight theme](http://gist.github.com/iq9/2906599)).
 
-## Preview
+## Preview 
 
 ![Blog Index](http://s3.amazonaws.com/gh_pages/casper/screen1.jpg)
 
